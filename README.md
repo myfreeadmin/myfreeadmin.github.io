@@ -1,2 +1,2 @@
 # myfreeadmin.github.io
-Olga Razovksaya resume
+Olga Razovskaya resume
